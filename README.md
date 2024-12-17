@@ -1,4 +1,4 @@
-# ChatApp-2
+# ChatApp
  Data Communication Project - Chat App
 
 Server'i baslatmak icin terminal komutu: 
